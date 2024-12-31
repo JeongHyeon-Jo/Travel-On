@@ -1,0 +1,16 @@
+# 모든 파일 무시
+*
+
+# lib 폴더 제외
+!lib/
+!lib/**
+lib/firebase_options.dart
+
+# pubspec.yaml 파일 제외
+!pubspec.yaml
+
+# README.md 파일 제외
+!README.md
+
+# .gitignore 파일 제외
+!.gitignore
