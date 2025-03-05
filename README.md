@@ -38,9 +38,6 @@
 ## 시연 영상
 [![TravelON 시연영상](https://img.youtube.com/vi/oYZbfPeqkfE/0.jpg)](https://youtu.be/oYZbfPeqkfE)
 
-## 프로젝트 링크
-- GitHub Repository: [https://github.com/jhdodev/TravelON](https://github.com/jhdodev/TravelON)
-
 ## 주요 기능
 ### 1. 여행 패키지
 - 다국어 지원 (한국어, 영어, 일본어, 중국어)
@@ -156,3 +153,7 @@ flutter run
 - 환경 변수 분리
 - API 키 보안
 - 사용자 인증 및 권한 관리
+
+
+## 저장소
+(GitHub 저장소) [https://github.com/jhdodev/TravelON](https://github.com/JeongHyeon-Jo/Travel-On/tree/main)
