@@ -158,4 +158,4 @@ flutter run
 
 
 ## 저장소
-(GitHub 저장소)[https://github.com/jhdodev/TravelON](https://github.com/JeongHyeon-Jo/Travel-On/tree/main)
+[GitHub 저장소](https://github.com/jhdodev/TravelON](https://github.com/JeongHyeon-Jo/Travel-On/tree/main)
