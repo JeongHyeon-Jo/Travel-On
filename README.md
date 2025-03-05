@@ -1,6 +1,12 @@
 # TravelON (트래블ON)
 여행 패키지 예약 및 가이드-여행객 매칭 플랫폼
 
+## 프로젝트 기간
+- 2024.10.28 ~ 2024.11.25 (2주)
+
+## 시연 영상
+[![TravelON 시연영상](https://img.youtube.com/vi/oYZbfPeqkfE/0.jpg)](https://youtu.be/oYZbfPeqkfE)
+
 ## 팀원 및 담당 파트
 ### 도지훈 (팀장)
 - 홈 화면 기능 (정보위젯/여행추천)
@@ -34,9 +40,6 @@
 - 사용자 정보 수정 기능
 - 시연 영상
   - 촬영/편집/나레이션
-
-## 시연 영상
-[![TravelON 시연영상](https://img.youtube.com/vi/oYZbfPeqkfE/0.jpg)](https://youtu.be/oYZbfPeqkfE)
 
 ## 주요 기능
 ### 1. 여행 패키지
