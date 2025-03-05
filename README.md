@@ -128,34 +128,5 @@ KAKAO_JAVASCRIPT_KEY=your_kakao_js_key
 NAVER_MAP_CLIENT_ID=your_naver_client_id
 ```
 
-### 설치 및 실행
-1. 저장소 클론
-```bash
-git clone https://github.com/jhdodev/TravelON.git
-cd travel-on
-```
-
-2. 의존성 설치
-```bash
-flutter pub get
-```
-
-3. Firebase 설정
-- Firebase 프로젝트 생성
-- Firebase CLI 설치 및 초기화
-- google-services.json 및 GoogleService-Info.plist 추가
-
-4. 앱 실행
-```bash
-flutter run
-```
-
-## 보안 고려사항
-- Firebase App Check 적용
-- 환경 변수 분리
-- API 키 보안
-- 사용자 인증 및 권한 관리
-
-
 ## 저장소
 [GitHub 저장소](https://github.com/jhdodev/TravelON](https://github.com/JeongHyeon-Jo/Travel-On/tree/main)
