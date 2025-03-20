@@ -4,9 +4,6 @@
 ## 프로젝트 기간
 - 2024.10.28 ~ 2024.11.25 (2주)
 
-## 시연 영상
-[![TravelON 시연영상](https://img.youtube.com/vi/oYZbfPeqkfE/0.jpg)](https://youtu.be/oYZbfPeqkfE)
-
 ## 팀원 및 담당 파트
 ### 도지훈 (팀장)
 - 홈 화면 기능 (정보위젯/여행추천)
@@ -38,7 +35,7 @@
   - 카메라/앨범 이미지 공유
   - 채팅방 목록
 - 사용자 정보 수정 기능
-- 시연 영상
+- [시연 영상](https://youtu.be/oYZbfPeqkfE)
   - 촬영/편집/나레이션
 
 ## 담당 기능 📌
@@ -173,3 +170,6 @@ KAKAO_NATIVE_APP_KEY=your_kakao_native_key
 KAKAO_JAVASCRIPT_KEY=your_kakao_js_key
 NAVER_MAP_CLIENT_ID=your_naver_client_id
 ```
+
+## 시연 영상
+[![TravelON 시연영상](https://img.youtube.com/vi/oYZbfPeqkfE/0.jpg)](https://youtu.be/oYZbfPeqkfE)
